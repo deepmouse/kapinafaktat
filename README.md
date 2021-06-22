@@ -16,4 +16,4 @@ Muistathan sisällyttää lähteet väitteillesi ja käyttää mahdollisiman neu
 
 Mikäli git on tuttu, voit tehdä pull requestin täältä: https://github.com/deepmouse/kapinafaktat/pulls
 
-Mikäli et halua käyttää gitiä, voit suoraan GitHubia käyttäen forkata tämän projektin, tehdä muutokset projektiin suoraan GitHub-sivuston kautta ja sitten tehdä muutoksistasi pull requestin.
+Mikäli et halua käyttää gitiä, voit suoraan GitHubia käyttäen forkata tämän projektin, tehdä muutokset projektiin GitHub-sivuston kautta ja sitten tehdä muutoksistasi pull requestin.
