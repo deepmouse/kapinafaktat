@@ -11,3 +11,5 @@ title: Elokapina-faktat
 Tätä sivustoa ylläpidetään yhteistyönä [GitHubin](https://github.com/deepmouse/kapinafaktat) kautta.
 
 Twitter: [@kapinafaktat](https://twitter.com/kapinafaktat)
+
+Kaikki sivuston sisältö on lisensoitu [CC BY 4.0](https://github.com/deepmouse/kapinafaktat/blob/main/LICENSING.md) -lisenssillä
