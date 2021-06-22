@@ -12,6 +12,8 @@ Jos kyseessä on uusi artikkeli, yllä olevan linkin lomakkeesta voit lähettä�
 
 Muistathan sisällyttää lähteet väitteillesi ja käyttää mahdollisimman neutraalia kieltä. Sivustoa ei ole tarkoitettu mielipidekirjoitusten tai kolumnien julkaisuun.
 
+Voit kirjoittaa artikkelin omalla nimelläsi tai anonyymisti. Kerro mikäli haluat nimesi mainittavan artikkelin kirjoittajana. Lähettämällä sisältöä sitoudut julkaisemaan sen sivuston käyttämän lisenssin (CC BY 4.0, https://github.com/deepmouse/kapinafaktat/blob/main/LICENSING.md) alla. 
+
 ## Jos osaat jo käyttää gitiä tai GitHubia
 
 Mikäli git on tuttu, voit tehdä pull requestin täältä: https://github.com/deepmouse/kapinafaktat/pulls
