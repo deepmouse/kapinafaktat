@@ -10,7 +10,7 @@ Jos et osaa tai halua käyttää `git`-ohjelmaa, voit lähettää muokkausehdotu
 
 Jos kyseessä on uusi artikkeli, yllä olevan linkin lomakkeesta voit lähettää tekstin vaikkapa liitetiedostona (esim. `.txt` tai `.md`) tai pastebin-linkkinä. Paras tapa on kuitenkin kirjoittaa koko artikkeli itse lomakkeeseen, tai jos osaat käyttää GitHubia ja/tai gitiä, alemman osion mukaisesti pull requestina.
 
-Toki voit myös kirjoittaa artikkelin mille tahansa itse valitsemallesi alustalle ja pyytää tätä sivustoa linkkaamaan sinne.
+Toki voit myös kirjoittaa artikkelin mille tahansa itse valitsemallesi alustalle ja pyytää tätä sivustoa kopioimaan sisältö.
 
 Muistathan sisällyttää lähteet väitteillesi ja käyttää mahdollisimman neutraalia kieltä. Sivustoa ei ole tarkoitettu mielipidekirjoitusten tai kolumnien julkaisuun. Pidä myös kirjoituksesi mahdollisimman lyhyenä ja ytimekkäänä.
 
