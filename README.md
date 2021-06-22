@@ -10,7 +10,7 @@ Jos et osaa tai halua käyttää `git`-ohjelmaa, voit lähettää muokkausehdotu
 
 Jos kyseessä on uusi artikkeli, yllä olevan linkin lomakkeesta voit lähettää tekstin vaikkapa liitetiedostona (esim. `.txt`)
 
-Muistathan sisällyttää lähteet väitteillesi ja käyttää mahdollisiman neutraalia kieltä. Sivustoa ei ole tarkoitettu mielipiteiden tai kolumnien julkaisuun.
+Muistathan sisällyttää lähteet väitteillesi ja käyttää mahdollisiman neutraalia kieltä. Sivustoa ei ole tarkoitettu mielipidekirjoitusten tai kolumnien julkaisuun.
 
 ## Jos osaat jo käyttää gitiä tai GitHubia
 
