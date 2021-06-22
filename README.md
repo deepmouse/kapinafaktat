@@ -1,6 +1,6 @@
 # Elokapina-faktat
 
-Koottuja faktoja Elokapinasta, Elokapinaan kohdistuvista väitteistä ja somehuhuista.
+Koottuja faktoja Elokapinasta, Elokapinaan kohdistuvista väitteistä ja somehuhuista. Sivusto löytyy osoitteesta: https://deepmouse.github.io/kapinafaktat/
 
 Sivusto ottaa vastaan artikkeleita, oikaisuja ja muokkauksia GitHubin kautta.
 
