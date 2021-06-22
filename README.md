@@ -2,6 +2,8 @@
 
 Koottuja faktoja Elokapinasta, Elokapinaan kohdistuvista väitteistä ja somehuhuista. Sivusto löytyy osoitteesta: https://deepmouse.github.io/kapinafaktat/
 
+## Haluan auttaa!
+
 Sivusto ottaa vastaan artikkeleita, oikaisuja ja muokkauksia GitHubin kautta. Voit tehdä GitHub-tunnukset osoitteessa: https://github.com/
 
 Jos et osaa tai halua käyttää `git`-ohjelmaa, voit lähettää muokkausehdotuksesi täältä: https://github.com/deepmouse/kapinafaktat/issues/new
