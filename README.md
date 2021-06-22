@@ -27,3 +27,5 @@ Mikäli et halua käyttää gitiä, voit suoraan GitHubia käyttäen forkata tä
 Voit kirjoittaa artikkelin omalla nimelläsi tai anonyymisti. Kerro mikäli haluat nimesi mainittavan artikkelin kirjoittajana. Lähettämällä sisältöä sitoudut julkaisemaan sen sivuston käyttämän lisenssin (CC BY 4.0, https://github.com/deepmouse/kapinafaktat/blob/main/LICENSING.md) alla. 
 
 Mitään takeita sisällön lisäämiselle sivustoon ei ole. Voit halutessasi käyttää tätä sivustoa pohjana uudelle sivustollesi muokkauksineen. Ota kuitenkin tällöin huomioon lisenssi, jossa vaaditaan että alkuperäinen tekijä mainitaan ja että muokattuun tekstiin tulee mainita muokkauksista. Toisin sanoen, jos muokkaat tekstejä omaa sivustoasi tai muuta käyttöä varten, sinun pitää ottaa uusi kirjoitus omiin nimiisi ja kertoa mihin kirjoitukseen se on pohjattu. Viittaaminen alkuperäiseen lähteeseen linkillä riittää.
+
+Kaikkea sivuston sisältöä saa jakaa vapaasti millä tahansa alustalla.
