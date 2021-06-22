@@ -6,7 +6,7 @@ Sivusto ottaa vastaan artikkeleita, oikaisuja ja muokkauksia GitHubin kautta. Vo
 
 Jos et osaa tai halua käyttää `git`-ohjelmaa, voit lähettää muokkausehdotuksesi täältä: https://github.com/deepmouse/kapinafaktat/issues/new
 
-Jos kyseessä on uusi artikkeli, yllä olevan linkin lomakkeesta voit lähettää tekstin liitetiedostona (esim. `.txt`)
+Jos kyseessä on uusi artikkeli, yllä olevan linkin lomakkeesta voit lähettää tekstin vaikkapa liitetiedostona (esim. `.txt`)
 
 Mikäli git on tuttu, voit tehdä pull requestin täältä: https://github.com/deepmouse/kapinafaktat/pulls
 
