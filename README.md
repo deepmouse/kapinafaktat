@@ -22,7 +22,7 @@ Mikäli git on tuttu, voit tehdä pull requestin täältä: https://github.com/d
 
 Mikäli et halua käyttää gitiä, voit suoraan GitHubia käyttäen forkata tämän projektin, tehdä muutokset projektiin GitHub-sivuston kautta ja sitten tehdä muutoksistasi pull requestin.
 
-## Tekijänoikeudet
+## Tekijänoikeudet ja sisällön levittäminen
 
 Voit kirjoittaa artikkelin omalla nimelläsi tai anonyymisti. Kerro mikäli haluat nimesi mainittavan artikkelin kirjoittajana. Lähettämällä sisältöä sitoudut julkaisemaan sen sivuston käyttämän lisenssin (CC BY 4.0, https://github.com/deepmouse/kapinafaktat/blob/main/LICENSING.md) alla. 
 
