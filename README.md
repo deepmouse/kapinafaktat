@@ -16,6 +16,8 @@ Muistathan sisällyttää lähteet väitteillesi ja käyttää mahdollisimman ne
 
 Voit kirjoittaa artikkelin omalla nimelläsi tai anonyymisti. Kerro mikäli haluat nimesi mainittavan artikkelin kirjoittajana. Lähettämällä sisältöä sitoudut julkaisemaan sen sivuston käyttämän lisenssin (CC BY 4.0, https://github.com/deepmouse/kapinafaktat/blob/main/LICENSING.md) alla. 
 
+Mitään takeita sisällön lisäämiselle sivustoon ei ole. Voit halutessasi käyttää tätä sivustoa pohjana uudelle sivustollesi muokkauksineen. Ota kuitenkin tällöin huomioon lisenssi, jossa vaaditaan että alkuperäinen tekijä mainitaan ja että muokattuun tekstiin tulee mainita muokkauksista. Toisin sanoen, jos muokkaat tekstejä omaa sivustoasi tai muuta käyttöä varten, sinun pitää ottaa uusi kirjoitus omiin nimiisi ja kertoa mihin kirjoitukseen se on pohjattu.
+
 ## Jos osaat jo käyttää gitiä tai GitHubia
 
 Jos osaat tehdä pull requestin GitHubissa, se on kaikista paras tapa auttaa sisällön tuottamisessa! Pull requestien tekeminen voi olla hieman vaikeaa ensikertalaiselle, mutta koko homma onnistuu nettiselaimessa GitHubin sivujen kautta. [Ohjeet pull requestien tekemiseen](https://docs.github.com/en/github/collaborating-with-pull-requests). Jos sinulla on ystävä joka osaa koodata, hän hyvin todennäköisesti osaa auttaa sinua asiassa.
