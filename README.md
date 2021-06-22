@@ -8,7 +8,7 @@ Sivusto ottaa vastaan artikkeleita, oikaisuja ja muokkauksia GitHubin kautta. Vo
 
 Jos et osaa tai halua käyttää `git`-ohjelmaa, voit lähettää muokkausehdotuksesi tai oman artikkelisi täältä: https://github.com/deepmouse/kapinafaktat/issues/new
 
-Jos kyseessä on uusi artikkeli, yllä olevan linkin lomakkeesta voit lähettää tekstin vaikkapa liitetiedostona (esim. `.txt`)
+Jos kyseessä on uusi artikkeli, yllä olevan linkin lomakkeesta voit lähettää tekstin vaikkapa liitetiedostona (esim. `.txt` tai `.md`)
 
 Muistathan sisällyttää lähteet väitteillesi ja käyttää mahdollisiman neutraalia kieltä. Sivustoa ei ole tarkoitettu mielipidekirjoitusten tai kolumnien julkaisuun.
 
