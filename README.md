@@ -6,9 +6,11 @@ Koottuja faktoja Elokapinasta, Elokapinaan kohdistuvista väitteistä ja somehuh
 
 Sivusto ottaa vastaan artikkeleita, oikaisuja ja muokkauksia GitHubin kautta. Voit tehdä GitHub-tunnukset osoitteessa: https://github.com/
 
-Jos et osaa tai halua käyttää `git`-ohjelmaa, voit lähettää muokkausehdotuksesi täältä: https://github.com/deepmouse/kapinafaktat/issues/new
+Jos et osaa tai halua käyttää `git`-ohjelmaa, voit lähettää muokkausehdotuksesi tai oman artikkelisi täältä: https://github.com/deepmouse/kapinafaktat/issues/new
 
 Jos kyseessä on uusi artikkeli, yllä olevan linkin lomakkeesta voit lähettää tekstin vaikkapa liitetiedostona (esim. `.txt`)
+
+Muistathan sisällyttää lähteet väitteillesi ja käyttää mahdollisiman neutraalia kieltä. Sivuston ei ole tarkoitettu mielipiteiden tai kolumnien julkaisuun.
 
 ## Jos osaat jo käyttää gitiä tai GitHubia
 
