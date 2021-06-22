@@ -16,6 +16,8 @@ Voit kirjoittaa artikkelin omalla nimelläsi tai anonyymisti. Kerro mikäli halu
 
 ## Jos osaat jo käyttää gitiä tai GitHubia
 
+Jos osaat tehdä pull requestin GitHubissa, se on kaikista paras tapa auttaa sisällön tuottamisessa! Pull requestien tekeminen voi olla hieman vaikeaa ensikertalaiselle, mutta koko homma onnistuu nettiselaimessa GitHubin sivujen kautta. [Ohjeet pull requestien tekemiseen](https://docs.github.com/en/github/collaborating-with-pull-requests). Jos sinulla on ystävä joka osaa koodata, hän hyvin todennäköisesti osaa auttaa sinua asiassa.
+
 Mikäli git on tuttu, voit tehdä pull requestin täältä: https://github.com/deepmouse/kapinafaktat/pulls
 
 Mikäli et halua käyttää gitiä, voit suoraan GitHubia käyttäen forkata tämän projektin, tehdä muutokset projektiin GitHub-sivuston kautta ja sitten tehdä muutoksistasi pull requestin.
