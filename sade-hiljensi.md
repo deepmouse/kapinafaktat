@@ -6,7 +6,9 @@ title: Väite - Sade hiljensi Elokapinan
 
 *Julkaistu 23.6.2021*
 
-## Keskiviikko 23.6.2021
+Kokoomuksen varatuomari ja kaupunginvaltuutettu Otto Meri [twiittaa](https://twitter.com/OttoMeri/status/1407679540185505794) Helsinkiin 23.6.2021 päivällä saapuneen sademyrskyn hiljentäneen Elokapinan. Sama väite leviää muidenkin jakamana somessa. Se ei kuitenkaan pidä paikkansa, vaan kyse on Elokapinan etukäteen ilmoittamasta mielenosoituspaikan siirtymisestä.
+
+## Tapahtumien kulku keskiviikkona 23.6.2021
 
 **klo 10.09** Elokapina [twiittaa](https://twitter.com/elokapina/status/1407596768360022027):
 
