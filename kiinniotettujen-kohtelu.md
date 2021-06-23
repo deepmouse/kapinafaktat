@@ -20,7 +20,7 @@ title: Elokapinan aktivistien kohtelusta Kesäkapinan kiinniottotilanteissa
 
 Lähde: [https://twitter.com/elokapina/status/1406666807113551874](https://twitter.com/elokapina/status/1406666807113551874)
 
-### Sunnuntai 21.6.2021
+### Maanantai 21.6.2021
 
 **Klo 11.11** Elokapina retweettaa Elokapinan aktivistin [Joanna Kurun tweettiketjun](https://twitter.com/KuruJoanna/status/1406887434567159818)
 
@@ -32,7 +32,7 @@ Lähde: [https://twitter.com/elokapina/status/1406666807113551874](https://twitt
 >
 > Poliisi voi ottaa sellaisen otteen, että jalat eivät osu maahan. Tai pyytää blokkaajaa vaihtamaan asentoa. Tai lopettaa kiinniottaminen ellei se onnistu ihmistä satuttamatta.
 
-### Maanantai 22.6. – Ylen hotellimajoituskirjoitus
+### Tiistai 22.6. – Ylen hotellimajoituskirjoitus
 
 **Klo 14.57** Yle [julkaisee uutisen](https://yle.fi/uutiset/3-11993328) otsikolla:
 
@@ -68,7 +68,7 @@ Heinonen puolustelee Poliisin toimintaa vedoten kiireeseen ja säilöönottotilo
 
 Poliisi on siis 20.6.2021 päättänyt tehdä 117 kiinniottoa kahden Helsingin kantakaupungilla sijaitsevan kadun, Mannerheimintien ja Unioninkadun liikennehäiriön estämiseksi, jonka jälkeen 22.6.2021 vetoaa Poliisin kiireeseen keskustelussa kiinniotettujen kohtelusta.
 
-### Maanantai 22.6. Hotellimajoituskirjoituksen reaktio somessa
+### Tiistai 22.6. Hotellimajoituskirjoituksen reaktio somessa
 
 Poliisin antamat hotellikommentit alkavat leviämään laajasti somessa, ja monia ihmetyttää miksi aktivistit odottavat hotellitason majoitusta. Vaikka otsikossa onkin kerrottu avoimesti, että kyseessä on Poliisin kommentti, monet pitävät sitä faktana. Harvempi kysyy, miksi Heinonen on tehnyt tällaisen kommentin, mihin se pohjautuu ja miksi se on nostettu otsikkoon. Uutista jaettaessa leviää myös samalla jakajan itse keksimiä konteksteja siitä, mitä kaikkea erityiskohtelua hotellitason majoituksen lisäksi aktivistit ovat vaatineet, vailla lähteitä näiden tueksi.
 
