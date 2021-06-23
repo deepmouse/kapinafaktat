@@ -16,7 +16,7 @@ title: Väite - Sade hiljensi Elokapinan
 
 **klo 15.10** [Kansan Uutiset: Elokapina iltapäivällä Säätytalolle – patistelee etenkin Marinia ja Saarikkoa](https://www.kansanuutiset.fi/artikkeli/4538745-elokapina-iltapaivalla-saatytalolle-patistelee-etenkin-marinia-ja-saarikkoa)
 
-**klo 15.38** Hieman ennen mielenilmauksen alkua Kokoomuksen kansanedustaja Otto Meri [twiittaa](https://twitter.com/OttoMeri/status/1407679540185505794):
+**klo 15.38** Hieman ennen mielenilmauksen alkua Kokoomuksen varatuomari ja kaupunginvaltuutettu Otto Meri [twiittaa](https://twitter.com/OttoMeri/status/1407679540185505794):
 
 > Sade hiljensi Elokapinan.
 
