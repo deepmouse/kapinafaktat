@@ -16,7 +16,7 @@ title: Elokapinan aktivistien kohtelusta Kesäkapinan kiinniottotilanteissa
 
 **Klo 20.34** Elokapina twiittaa heti Mannerheimintien kiinniottojen tapahtumisen jälkeen:
 
-    Me kannamme vastuumme kansalaistottelemattomuuden seurauksista. Hallitus, kantakaa omanne ja aloittakaa kriisitiedotus.
+> Me kannamme vastuumme kansalaistottelemattomuuden seurauksista. Hallitus, kantakaa omanne ja aloittakaa kriisitiedotus.
 
 Lähde: [https://twitter.com/elokapina/status/1406666807113551874](https://twitter.com/elokapina/status/1406666807113551874)
 
@@ -24,25 +24,25 @@ Lähde: [https://twitter.com/elokapina/status/1406666807113551874](https://twitt
 
 **Klo 11.11** Elokapina retweettaa Elokapinan aktivistin [Joanna Kurun tweettiketjun](https://twitter.com/KuruJoanna/status/1406887434567159818)
 
-    En saatana kestä miten vähemmistöjä kohdellaan @HelsinkiPoliisi jos mun kaltaisia etuoikeutettuja, kiinniottoon valmistautuneita kohdellaan todistajien läsnäollessa vittumaisesti&uhkaillen.
-
-    Eli polttavalla asfaltilla ihmistä raahataan pitkin maata. Mulle yritettiin tehdä sama, mutta kannattelin itseäni hiukan välttääkseni paljaiden säärien raapiutumisen verille.
-
-    Voin vain toivoa, ettei häntä kohdeltu samoin/pahemmin kuin itseäni kiinnioton muissa vaiheissa..
-
-    Poliisi voi ottaa sellaisen otteen, että jalat eivät osu maahan. Tai pyytää blokkaajaa vaihtamaan asentoa. Tai lopettaa kiinniottaminen ellei se onnistu ihmistä satuttamatta.
+> En saatana kestä miten vähemmistöjä kohdellaan @HelsinkiPoliisi jos mun kaltaisia etuoikeutettuja, kiinniottoon valmistautuneita kohdellaan todistajien läsnäollessa vittumaisesti&uhkaillen.
+>
+> Eli polttavalla asfaltilla ihmistä raahataan pitkin maata. Mulle yritettiin tehdä sama, mutta kannattelin itseäni hiukan välttääkseni paljaiden säärien raapiutumisen verille.
+>
+> Voin vain toivoa, ettei häntä kohdeltu samoin/pahemmin kuin itseäni kiinnioton muissa vaiheissa..
+>
+> Poliisi voi ottaa sellaisen otteen, että jalat eivät osu maahan. Tai pyytää blokkaajaa vaihtamaan asentoa. Tai lopettaa kiinniottaminen ellei se onnistu ihmistä satuttamatta.
 
 ### Maanantai 22.6. – Ylen hotellimajoituskirjoitus
 
 **Klo 14.57** Yle [julkaisee uutisen](https://yle.fi/uutiset/3-11993328) otsikolla:
 
-    Elokapinan mielenosoittajat kertovat epäasiallisesta kohtelusta putkayönä – Poliisi: "Ei säilöönottotilassa ole hotellitason majoitusta"
+> Elokapinan mielenosoittajat kertovat epäasiallisesta kohtelusta putkayönä – Poliisi: "Ei säilöönottotilassa ole hotellitason majoitusta"
 
 Toimittaja nostaa otsikkoon Helsingin poliisin komisario Jarno Heinosen lausunnon, jossa epäsuorasti vihjataan että aktivistit odottaisivat hotellitason majoitusta. Heinonen ei kuitenkaan jutussa suoraan sano että kukaan aktivisti olisi pyytänyt erityiskohtelua tai hotellitason majoitusta.
 
 Poliisin lisäksi Elokapinan mediayhteyshenkilö Aliisa Maunulaa on haastateltu juttua varten:
 
-    Itsekin putkassa yön viettänyt Elokapinan mediayhteyshenkilö Aliisa Maunula kertoo, että poliisi olisi ollut vihainen ja yrittäisi kostaa putkaan viemistä kohtelemalla huonosti.
+> Itsekin putkassa yön viettänyt Elokapinan mediayhteyshenkilö Aliisa Maunula kertoo, että poliisi olisi ollut vihainen ja yrittäisi kostaa putkaan viemistä kohtelemalla huonosti.
 
 Väitteet huonosta kohtelusta eivät ole erityisen radikaaleja. Media on raportoinut vuosien varrella niin väkivallasta kuin kuolemantapauksistakin Poliisin kiinniottotilanteissa:
 
@@ -56,15 +56,15 @@ Myös pienempää Poliisin suorittamaa kiusantekoa kiinniottotilanteissa pidetä
 
 Yle kirjoittaa:
 
-    Maunulan mukaan kiinniotetut mielenosoittajat olivat yrittäneet kysellä oikeuksiaan, mutta kokivat saaneensa vastaukseksi vain naureskelua.
+> Maunulan mukaan kiinniotetut mielenosoittajat olivat yrittäneet kysellä oikeuksiaan, mutta kokivat saaneensa vastaukseksi vain naureskelua.
 
 Missään vaiheessa juttua ei puhuta siitä, että Elokapinan aktivistit haluaisivat erityiskohtelua, saatikka hotellitason majoitusta. Maunula esittää kritiikkiä Poliisin toimintaa kohtaan ja painottaa kommenteissaan kiinniotetun oikeuksien toteutumista. Mitä kiinniotetun kohteluun tulee, lain velvoittamien oikeuksien toteutumisen ja hotellimajoituksen välinen maasto on valtava.
 
 Heinonen puolustelee Poliisin toimintaa vedoten kiireeseen ja säilöönottotilojen täyttymiseen:
 
-    Heinosen mukaan asia ratkeaa parhaiten kantelumenettelyllä, jolloin asian hoitaneet virkamiehet kommentoivat asiaa. Heinonen kuitenkin korostaa, että kyseisenä iltana sisäänottotilat olivat tupaten täynnä.
-
-    – Se voi aiheuttaa sitä, että tehtäviä, kuten vessan vetämistä, voidaan joutua lykkäämään. Pitäisin aikalailla oletettuna sitä, että siellä on henkiökunnalla ollut kädet täynnä töitä.
+> Heinosen mukaan asia ratkeaa parhaiten kantelumenettelyllä, jolloin asian hoitaneet virkamiehet kommentoivat asiaa. Heinonen kuitenkin korostaa, että kyseisenä iltana sisäänottotilat olivat tupaten täynnä.
+>
+> – Se voi aiheuttaa sitä, että tehtäviä, kuten vessan vetämistä, voidaan joutua lykkäämään. Pitäisin aikalailla oletettuna sitä, että siellä on henkiökunnalla ollut kädet täynnä töitä.
 
 Poliisi on siis 20.6.2021 päättänyt tehdä 117 kiinniottoa kahden Helsingin kantakaupungilla sijaitsevan kadun, Mannerheimintien ja Unioninkadun liikennehäiriön estämiseksi, jonka jälkeen 22.6.2021 vetoaa Poliisin kiireeseen keskustelussa kiinniotettujen kohtelusta.
 
