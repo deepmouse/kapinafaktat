@@ -72,6 +72,6 @@ Poliisi on siis 20.6.2021 päättänyt tehdä 117 kiinniottoa kahden Helsingin k
 
 Poliisin antamat hotellikommentit alkavat leviämään laajasti somessa, ja monia ihmetyttää miksi aktivistit odottavat hotellitason majoitusta. Vaikka otsikossa onkin kerrottu avoimesti, että kyseessä on Poliisin kommentti, monet pitävät sitä faktana. Harvempi kysyy, miksi Heinonen on tehnyt tällaisen kommentin, mihin se pohjautuu ja miksi se on nostettu otsikkoon. Uutista jaettaessa leviää myös samalla jakajan itse keksimiä konteksteja siitä, mitä kaikkea erityiskohtelua hotellitason majoituksen lisäksi aktivistit ovat vaatineet, vailla lähteitä näiden tueksi.
 
-Ylen juttu nousee nopeasti yle.fi luetuimmaksi uutiseksi ja pysyy ykköspaikalla tämän jutun kirjoittamiseen asti (23.6.2021 klo 13.50).
+Ylen juttu nousee nopeasti yle.fi luetuimmaksi uutiseksi ja pysyy ykköspaikalla yli vuorokauden (ykköspaikalla edelleen 23.6.2021 klo 16.26).
 
 **Klo 17.29** Elokapina twiittaa [vastineen poliisille](https://twitter.com/elokapina/status/1407344902833324041), jossa he sanoivat etteivät odota hotellitason majoitusta
