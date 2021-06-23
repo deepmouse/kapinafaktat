@@ -4,6 +4,8 @@ title: Elokapina-faktat
 
 Koottuja faktoja Elokapinasta, Elokapinaan kohdistuvista väitteistä ja somehuhuista.
 
+[Elokapinan aktivistien kohtelusta Kesäkapinan kiinniottotilanteissa](/kapinafaktat/kiinniotettujen-kohtelu) (23.6.2021)
+
 [Väite: Elokapinan toiminta on ulkomailta ohjattua](/kapinafaktat/ulkomailta-ohjattua) (22.6.2021)
 
 [Väite: Elokapinan aktivistit jättivät ympäristön siivottomaan kuntoon](/kapinafaktat/roskaus) (22.6.2021)
