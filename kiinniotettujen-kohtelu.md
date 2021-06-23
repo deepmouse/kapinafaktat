@@ -74,4 +74,4 @@ Poliisin antamat hotellikommentit alkavat leviämään laajasti somessa, ja moni
 
 Ylen juttu nousee nopeasti yle.fi luetuimmaksi uutiseksi ja pysyy ykköspaikalla tämän jutun kirjoittamiseen asti (23.6.2021 klo 13.50).
 
-**Klo 17.29** Elokapina twiittaa vastineen poliisille, jossa he sanoivat etteivät odota hotellitason majoitusta https://twitter.com/elokapina/status/1407344902833324041
+**Klo 17.29** Elokapina twiittaa [vastineen poliisille](https://twitter.com/elokapina/status/1407344902833324041), jossa he sanoivat etteivät odota hotellitason majoitusta
