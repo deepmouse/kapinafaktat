@@ -4,6 +4,8 @@ title: Elokapina-faktat
 
 Koottuja faktoja Elokapinasta, Elokapinaan kohdistuvista väitteistä ja somehuhuista.
 
+[Mielenosoitusten juridiikka suhteessa Elokapinaan](/kapinafaktat/juridiikka) (28.6.2021)
+
 [Väite: Sade hiljensi Elokapinan](/kapinafaktat/sade-hiljensi) (23.6.2021)
 
 [Elokapinan aktivistien kohtelusta Kesäkapinan kiinniottotilanteissa](/kapinafaktat/kiinniotettujen-kohtelu) (23.6.2021)
