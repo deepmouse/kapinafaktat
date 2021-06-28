@@ -2,7 +2,21 @@
 title: Elokapina-faktat
 ---
 
+# Elokapina-faktat
+
 Koottuja faktoja Elokapinasta, Elokapinaan kohdistuvista väitteistä ja somehuhuista.
+
+## Mikä on Elokapina?
+
+Elokapina on liike, jonka tavoitteena on edistää toimia ilmastokriisin hillitsemiseksi. Sen toiminta on monimuotoista aktivismia, ja sen tunnetuin toimintatapa on tietoinen kansalaistottelemattomuus. Tämän lisäksi Elokapina toimii myös lainmukaisin keinoin.
+
+[Ilta-Sanomat: Mitä Elokapina oikeasti haluaa?](https://www.is.fi/kotimaa/art-2000008071600.html)
+
+[Wikipedia: Elokapina](https://fi.wikipedia.org/wiki/Elokapina)
+
+[Elokapina: elokapina.fi](https://elokapina.fi/)
+
+## Kapinafaktat-artikkeleita
 
 [Mielenosoitusten juridiikka suhteessa Elokapinaan](/kapinafaktat/juridiikka) (28.6.2021)
 
