@@ -14,7 +14,7 @@ Kaikki sivuston sisältö on lisensoitu [CC BY 4.0](https://github.com/deepmouse
 
 ## Mikä on Elokapina?
 
-Elokapina on liike, jonka tavoitteena on edistää toimia ilmastokriisin hillitsemiseksi. Sen toiminta on monimuotoista aktivismia, ja sen tunnetuin toimintatapa on tietoinen kansalaistottelemattomuus. Tämän lisäksi Elokapina toimii myös lainmukaisin keinoin.
+Elokapina on liike, jonka tavoitteena on edistää toimia ilmastokriisin hillitsemiseksi. Sen toiminta on monimuotoista, väkivallatonta suoraan toimintaan pohjautuvaa aktivismia, ja sen tunnetuin toimintatapa on tietoinen kansalaistottelemattomuus. Tämän lisäksi Elokapina toimii myös lainmukaisin keinoin.
 
 [Ilta-Sanomat: Mitä Elokapina oikeasti haluaa?](https://www.is.fi/kotimaa/art-2000008071600.html)
 
